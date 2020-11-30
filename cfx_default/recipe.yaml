@@ -678,7 +678,7 @@ tasks:
 
 
   - action: download_file
-    url: https://raw.githubusercontent.com/tabarra/txAdmin-recipes/main/cfx_default/server.cfg
+    url: https://raw.githubusercontent.com/Dragonir44/txAdmin-recipes-esxv1.2/master/cfx_default/server.cfg
     path: ./server.cfg
 
   - action: remove_path
