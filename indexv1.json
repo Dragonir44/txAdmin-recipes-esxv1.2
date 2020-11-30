@@ -1,0 +1,9 @@
+[
+    {
+        "name": "ESX v1.2 Default",
+        "author": "Dragonir",
+        "version": "1.0.0",
+        "description": "Recipe for the base resources required to run a FiveM server.",
+        "url": "https://raw.githubusercontent.com/tabarra/txAdmin-recipes/main/cfx_default/recipe.yaml"
+    }
+]
